@@ -6,4 +6,4 @@ Only the latest release of an active project is supported. Archived projects are
 
 ### Reporting a Vulnerability
 
-For bugs and feature requests, raise an Issue at GitHub. To report security vulnerabilities privately you can use this [Google Form](https://forms.gle/r2Yt47Xx9fuhkYRZA).
+For bugs and feature requests, raise an Issue at GitHub. To report security vulnerabilities privately you can use this [Discord](https://discord.gg/dPcvbv9pvs).
